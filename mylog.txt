@@ -1,0 +1,11 @@
+Drank water at,2021-07-15 12:08:08.232044
+Eyes exercise at,2021-07-15 12:08:17.896596
+Exercise of body done  at,2021-07-15 12:08:20.312735
+Drank water at,2021-07-15 12:08:21.864823
+Drank water at,2021-07-15 12:08:26.864109
+Eyes exercise at,2021-07-15 12:08:37.808735
+Drank water at,2021-07-15 17:15:27.818376
+Eyes exercise at,2021-07-15 17:15:32.295632
+Drank water at,2021-07-15 17:15:35.726828
+Exercise of body done  at,2021-07-15 17:15:41.231143
+Drank water at,2021-07-15 17:15:49.006588
