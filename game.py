@@ -83,3 +83,6 @@ else:
 print(f"Your Point is {hp}\nComputer Point {cp}\n")
 
 print("Game over")
+
+
+print("for any suggestion say to whitecoder")
