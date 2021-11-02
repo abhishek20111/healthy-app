@@ -23,7 +23,7 @@
 #        continue
 
 i=int(input("enter the no\n"))
-while(True):-
+while(True):
     if i<100:
         print("try again\n")
         break

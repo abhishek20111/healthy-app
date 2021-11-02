@@ -12,7 +12,7 @@ hp=0
 
 
 
-while tatt > hatt:
+while tatt   > hatt:
     sua = input("enter your choice \nScissor-S\nPaper-P\nRock-R   \n")
     hun = sua.capitalize()
 

@@ -1,36 +1,36 @@
 #                                        """Practice work of all summery"""
 
-# class employee():
-#     leave=8
-#
-#     def __init__(self,name,stand):
-#         self.name=name
-#         self.stand=stand
-#
-#     @classmethod
-#     def stringto(cls,string):
-#         return cls(*string.split("/"))
-#
-#     @classmethod
-#     def newlea(cls,newleave):
-#         cls.leave=newleave
-#
-#     @staticmethod
-#     def ood(string):
-#         print("hi ama i  "+ string)
-#
-#
-#
-# har=employee("harry",4)
-# rohan=employee.stringto("rohan/4")
-# employee.newlea(5)
-#
-# print(har.name)
-# print(rohan.stand)
-#
-# print(rohan.leave)
-#
-# rohan.ood("ji kasi ho mst hai sab")
+class employee():
+    leave=8
+
+    def __init__(self,name,stand):
+        self.name=name
+        self.stand=stand
+
+    @classmethod
+    def stringto(cls,string):
+        return cls(*string.split("/"))
+
+    @classmethod
+    def newlea(cls,newleave):
+        cls.leave=newleave
+
+    @staticmethod
+    def ood(string):
+        print("hi ama i  "+ string)
+
+
+
+har=employee("harry",4)
+rohan=employee.stringto("rohan/4")
+employee.newlea(5)
+
+print(har.name)
+print(rohan.stand)
+
+print(rohan.leave)
+
+rohan.ood("ji kasi ho mst hai sab")
 
 
 
