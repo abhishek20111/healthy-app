@@ -44,8 +44,7 @@
 from playsound import playsound
 playsound('C:\\Users\\kushwaha\\PycharmProjects\\untitled1\\sound.mp3')
 
-
-
+pass
 
 
 

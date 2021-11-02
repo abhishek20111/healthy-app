@@ -21,7 +21,8 @@ def soldier(path,file,format):
         if os.path.splitext(file)[1]==format:
             os.rename(file,f"{i}{format}")
             i +=1
-
+#hjjhjhjhhjbhtb tj
 soldier(r"C:\Users\kushwaha\Pictures",r"C:\Users\kushwaha\PycharmProjects\untitled2\oh_sold_pro.py\ext.txt",".jpg")
 
+pass
 pass
