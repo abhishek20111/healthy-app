@@ -23,3 +23,5 @@ def soldier(path,file,format):
             i +=1
 
 soldier(r"C:\Users\kushwaha\Pictures",r"C:\Users\kushwaha\PycharmProjects\untitled2\oh_sold_pro.py\ext.txt",".jpg")
+
+pass
